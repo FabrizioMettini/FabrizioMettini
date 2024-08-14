@@ -12,4 +12,4 @@ Programming languages, emulators, computer graphics, robotics, among many other 
 
 Email: fabrizioamettini@gmail.com
 
-Linkedin: https://ar.linkedin.com/in/fabriziomettini
+Linkedin: https://linkedin.com/in/fabriziomettini

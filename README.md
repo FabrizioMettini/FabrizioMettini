@@ -7,9 +7,3 @@ Computer Science student at Universidad Nacional de Rosario (UNR). I speak Engli
 ### I'm interested in ...
 
 Programming languages, emulators, computer graphics, robotics, among many other things.
-
-### How to reach me?
-
-Email: fabrizioamettini@gmail.com
-
-Linkedin: https://linkedin.com/in/fabriziomettini
